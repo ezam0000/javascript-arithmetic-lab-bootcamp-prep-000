@@ -11,7 +11,8 @@ function multiply (a,b){
 function divide (a,b){
   return a/b
 }
+var n=1 
+function inc (n+a){
+  return (n+a)
 
-function inc (n){
-  return a+1 
 }
