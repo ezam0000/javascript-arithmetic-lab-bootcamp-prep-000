@@ -15,6 +15,3 @@ function divide (a,b){
 function inc (n){
   return a+1
 }
-function dec (n){
-  return a-1
-}
