@@ -12,6 +12,6 @@ function divide (a,b){
   return a/b
 var n = 1
 }
-function increase(a,n){
+function inc(a,n){
 return a+n
 }
